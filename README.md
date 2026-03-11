@@ -1,6 +1,8 @@
 <h1>Hi, I'm Arthur! 
 
-<h2>👨‍💻 Active Directory Homelab:</h2>
+<h2>👨‍💻 IT Support Technician Projects:</h2>
+ 
+ - Active Directory Homelab
 
 <h2>Certifications</h2> 
 
