@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Support Technician Projects:</h2>
  
  - [Active Directory Homelab](https://github.com/arthurhami4670/ActiveDirectoryHomelab)
+ - [Networking Homelab](enter url once completed)
 
 
 <h2>Certifications</h2> 
