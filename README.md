@@ -1,10 +1,10 @@
-<h1>Hi, I'm Arthur! 
+<h1>Hi, I'm Arthur Hamilton! 
 
 <h2>👨‍💻 IT Support Technician Projects:</h2>
  
  - [Active Directory Homelab](https://github.com/arthurhami4670/ActiveDirectoryHomelab)
  - [Networking Homelab](https://github.com/arthurhami4670/Networking-Homelab/tree/main)
-
+ - [Join PC to Domain Controller](past link to lab)
 
 <h2>Certifications</h2> 
 
