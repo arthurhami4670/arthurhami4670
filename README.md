@@ -4,7 +4,7 @@
  
  - [Active Directory Homelab](https://github.com/arthurhami4670/ActiveDirectoryHomelab)
  - [Networking Homelab](https://github.com/arthurhami4670/Networking-Homelab/tree/main)
- - [Join PC to Domain Controller]((https://github.com/arthurhami4670/JoinPCtoDomainController.git))
+ - [Join PC to Domain Controller](https://github.com/arthurhami4670/JoinPCtoDomainController.git)
 
 <h2>Certifications</h2> 
 
